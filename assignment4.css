@@ -1,0 +1,52 @@
+body {
+	background-color: blue;
+	color: white;
+	font-family: "Lucida Console";
+	margin: 0px auto 40px auto;
+	width: 800px;
+}
+
+h1 {
+	background-color: gray;
+	color: blue;
+	width: 200px;
+	text-align: center;
+	margin: 40px auto 20px auto;
+}
+
+#neckPart {
+	margin-bottom: 10px;
+}
+
+#neckPart a {
+	text-decoration: none;
+	color: gray;
+}
+
+#neckPart a:hover {
+	text-decoration: none;
+	color: yellow;
+	background-color: gray;
+}
+
+ul li a, ul li a:focus {
+	text-decoration: none;
+	color: yellow;
+}
+
+h2 {
+	margin-bottom: 0px;
+}
+
+h3 {
+	margin-bottom: 0px;
+}
+
+ul {
+	list-style: none;
+}
+
+.tiny {
+	color: gray;
+	font-size: 10px;
+}
